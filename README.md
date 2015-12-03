@@ -88,18 +88,18 @@ ___斜粗体2___
 
 ##<a name="link"/>链接
 ###链接外部URL
-[我的博客](http://maozhenggang.github.io/share-list-pages/ "悬停显示")   语法如下：
+[我的博客](http://maozhenggang.github.io/share-list-pages/)   语法如下：
 ```
-[我的博客](http://maozhenggang.github.io/share-list-pages/"悬停显示")
+[我的博客](http://maozhenggang.github.io/share-list-pages/)
 ```
 ###链接的另一种写法
 [我的博客][id]  
 
-[id]:http://maozhenggang.github.io/share-list-pages/"悬停显示"   
+[id]:http://maozhenggang.github.io/share-list-pages/  
 语法如下：
 ```
-[我的博客][id]
-[id]:http://maozhenggang.github.io/share-list-pages/"悬停显示"
+我的博客
+【id】:http://maozhenggang.github.io/share-list-pages/
 ```
 中括号[ ]里的id，可以是数字，字母等的组合。这两行可以不连着写，**一般把第二行的链接统一放在文章末尾**，id上下对应就行了。这样正文看起来会比较干净。
 
